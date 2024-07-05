@@ -1,0 +1,6 @@
+User_name : khalamin 
+Password : qwer 
+Name : aa 
+Email : as 
+Gender : as 
+Mobile : 23232 
